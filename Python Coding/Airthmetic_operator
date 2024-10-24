@@ -1,0 +1,41 @@
+"""a = 5 
+b = 2 
+sum = a+b
+print(sum)
+
+print(a%b)  # modualo operator return the remainder
+
+print(a**b) # return the value of power of any number
+
+print(a==b) # relational operator check for equality of two numbers
+
+c = 50
+d = 20
+print(c==d)
+
+print(c!=d)
+
+# assignment operator
+
+num = 10
+num+= 10
+print(num)
+
+add = 20
+
+add = add +10
+print(add)"""
+
+# logical operators   works on booleans values
+ 
+"""print(not True)
+print(not False)"""
+
+val1 = True
+val2 = True
+print(val1 and val2)
+
+
+hey = True
+hii = False
+print(hey or hii)

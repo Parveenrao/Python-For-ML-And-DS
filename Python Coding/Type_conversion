@@ -1,0 +1,33 @@
+a = 2
+b =4.5
+sum = a + b
+print(sum)
+
+# type casting 
+"""a = 3.4
+b = str(a)
+print(b)
+print(type(b))"""
+
+# input in python
+"""name = input("enter your name")
+print("Welcome Legend" ,name)"""
+
+# area of square
+
+"""side = int(input("Enter the side of square"))
+
+area = side * side
+print(area)"""
+
+
+"""a = float(input("Enter first number"))
+b = float(input("Enter second number"))
+
+print("The average of a and b is " , (a+b)/2)"""
+
+
+a = int(input("Enter first number"))
+b = int(input("Enter second number"))
+
+print(a>=b)

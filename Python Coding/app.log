@@ -1,0 +1,5 @@
+DEBUG:root:This is debug messsage
+INFO:root:module 2 is completer , module 3 has been started
+WARNING:root:warning message is displayed
+ERROR:root:Error  has been found
+CRITICAL:root:Critical task must be completed first

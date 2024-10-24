@@ -1,0 +1,5 @@
+root:DEBUG:Debug msg
+root:INFO:Information about module
+root:WARNING:warning to the system
+root:ERROR:Error found
+root:CRITICAL:Critical task

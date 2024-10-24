@@ -1,0 +1,1 @@
+db.createcollection('nonfication',{validator:{$jsonschema:{required:['name','pricr'],properties:{name:{bsonType:'string',description:'must be string and required'},price:{bsonType:'number',description:'must be number and required'}}}},validationAction:'error'})
